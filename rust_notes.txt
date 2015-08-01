@@ -1,0 +1,20 @@
+rust camp notes
+
+"rust is a language that pays attention to the human"
+"you can hack without fear"
+rustcamp 2015
+
+rust differs from the c compiler
+
+scans all files
+builds up ast
+type checks that
+goes to LLVM
+
+############################################################
+
+what you don't use, you don't pay for
+
+api design
+zero cost abstractions
+libraries that are ergonomic and high level
